@@ -6,7 +6,21 @@ Major Dependencies Used - Spring web, Spring Data Mongo Db, Spring Data JPA, Lom
 Note: There is no external dependency used for Loggers and we used spring in built loggers here. 
 
 Branch Wise Categorization:
+_______________________________________________________
 
-Branch 1 : 
+Branch 1 : Main
 
-Topics Covered: 
+Topics Covered: 1. Contains Basic Layout of Controller and normal Config. 
+2. Swagger Api Implemented
+_______________________________________________________
+
+Branch 2 : swagger-api-branch
+
+Topics Covered: 1. Swagger API implemented
+2. Search Operation with mongo db implemented. 
+
+________________________________________________________
+
+Branch 3: swagger-api-with-search-and-logging-aop
+
+Topics Covered: 1. AOP implemented with Logging Aspect. 
