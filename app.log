@@ -1,0 +1,6 @@
+2025-10-02T19:55:19.465+05:30  INFO 12804 --- [Spring-6.0-AOP-Loggers-Swagger-Mongo] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-02T19:55:19.465+05:30  INFO 12804 --- [Spring-6.0-AOP-Loggers-Swagger-Mongo] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-10-02T19:55:19.465+05:30  INFO 12804 --- [Spring-6.0-AOP-Loggers-Swagger-Mongo] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-10-02T19:55:19.499+05:30  INFO 12804 --- [Spring-6.0-AOP-Loggers-Swagger-Mongo] [http-nio-8080-exec-1] c.e.S._.aop.LoggingAspect                : Entered in JobPostController Class, getAllPosts() method, Called from Aspect 
+2025-10-02T19:55:19.816+05:30  INFO 12804 --- [Spring-6.0-AOP-Loggers-Swagger-Mongo] [http-nio-8080-exec-1] c.e.S._.aop.LoggingAspect                : JobPostController Class, getAllPosts() method, After Returning Log Called from Aspect 
+2025-10-02T19:55:19.816+05:30  INFO 12804 --- [Spring-6.0-AOP-Loggers-Swagger-Mongo] [http-nio-8080-exec-1] c.e.S._.aop.LoggingAspect                : JobPostController Class, getAllPosts() method, After Finally Log Called from Aspect 
